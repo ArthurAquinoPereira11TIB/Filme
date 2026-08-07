@@ -27,11 +27,8 @@ img {
 
 
 header {
-    width: 100%;
-    height: 100%;
-    padding-inline: 500px;
     display: flex;
-    align-items: center;
+    justify-content: center;
     background-color: #0d0d0d;
     border-bottom: 4px solid #ff5e00;
     align-items: center;
