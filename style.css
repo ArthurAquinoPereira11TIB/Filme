@@ -109,3 +109,7 @@ ul {
 strong {
     color: #ff5e00;
 }
+
+.here li {
+    margin-bottom: 10px;
+}
