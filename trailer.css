@@ -52,16 +52,14 @@ header a {
     border-bottom: 2px solid #ff5e00;
 }
 
-.Imagem {
+iframe {
     display: block;
-    width: fit-content;
     margin: auto;
+    margin-bottom: auto;
 }
 
 
-img {
-    width: 320px;
-}
+
 
 
 h2 {
